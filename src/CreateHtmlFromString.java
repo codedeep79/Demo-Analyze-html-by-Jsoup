@@ -10,7 +10,7 @@ public class CreateHtmlFromString {
 	public static void main(String[] args) {
 		String html = "<html>"
 						+ "<head>"
-							+ "<title>Fpt Polytechnic</title>"
+							+ "<title>Polytechnic university</title>"
 						+ "</head>"
 						+ "<body>"
 							+ "<h1>Nguyen Van A</h1>"
